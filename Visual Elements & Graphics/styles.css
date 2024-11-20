@@ -1,0 +1,47 @@
+.color-example{
+    color:white;
+    font-family: fantasy;
+    border: 3px dashed rgb(7, 61, 115);
+    background-color:#6699CC;
+}
+
+.header-example{
+    color:rgb(7, 61, 115);
+    font-size: x-large;
+    font-family: fantasy;
+}
+
+a{
+    color:white;
+    font-family: fantasy;
+    border: 3px dashed rgb(7, 61, 115);
+    width: 420px;
+    padding: 4.5px;
+    background-color:#6699CC;
+}
+
+H2{
+    color: rgb(7, 61, 115);
+    font-family: fantasy;
+}
+
+.list-example{
+    font-family: fantasy;
+    color:rgb(7, 61, 115);
+    list-style-type:square;
+}
+
+.text-example{
+    color:rgb(138, 18, 36);
+    font-family: 'Trebuchet MS';
+    text-transform: capitalize;
+    font-size: large;
+    text-decoration: underline;
+}
+
+.div-example{
+    color:white;
+    font-family: fantasy;
+    border: 5px double rgb(7, 61, 115);
+    background-color:#6699CC;
+}

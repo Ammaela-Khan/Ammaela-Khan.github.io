@@ -1,0 +1,56 @@
+body{
+    background-color:#e9c7cd;
+}
+
+h1{
+    color:white;
+    font-family: fantasy;
+    border: 5px solid white;
+    width: 420px;
+    padding: 10px;
+}
+
+a{
+    color:white;
+    font-family: fantasy;
+    border: 3px dashed white;
+    width: 420px;
+    padding: 5px;
+}
+
+p{
+    background-color:white;
+    border-radius: 10px;
+    color:rgb(238, 192, 211);
+    font-family: fantasy;
+    border: 5px solid rgb(250, 218, 231);
+    width: 345px;
+    padding: 10px;
+}
+
+.second-paragraph{
+    background-color:white;
+    border-radius: 10px;
+    color:rgb(238, 192, 211);
+    font-family: fantasy;
+    border: 10px double rgb(250, 218, 231);
+    width: 650px;
+    padding: 10px 1px 10px 20px;
+}
+
+h2{
+    color: white;
+    font-family: fantasy;
+    border: 5px solid white;
+    width: 150px;
+    padding: 8px;
+}
+    
+.list-example{
+    color: white;
+    font-family: fantasy;
+}
+
+figcaption{
+    color: white;
+}
